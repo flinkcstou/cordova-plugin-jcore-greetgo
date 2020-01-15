@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-jcore",
+  "name": "cordova-plugin-jcore-google-play",
   "version": "1.3.1",
-  "description": "jcore for cordova plugin",
+  "description": "jcore for cordova plugin google play edition",
   "cordova": {
-    "id": "cordova-plugin-jcore",
+    "id": "cordova-plugin-jcore-google-play",
     "platforms": [
       "android",
       "ios"
@@ -11,19 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpush/cordova-plugin-jcore"
+    "url": "https://github.com/yanglb/cordova-plugin-jcore-google-play"
   },
   "keywords": [
     "jcore",
     "jpush",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios"
+    "cordova-ios",
+    "google play"
   ],
-  "author": "wilhantian, jiguang",
+  "author": "wilhantian, jiguang, yanglb",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/jpush/cordova-plugin-jcore/issues"
+    "url": "https://github.com/yanglb/cordova-plugin-jcore-google-play/issues"
   },
-  "homepage": "https://github.com/jpush/cordova-plugin-jcore#readme"
+  "homepage": "https://github.com/yanglb/cordova-plugin-jcore-google-play#readme"
 }
