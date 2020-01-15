@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
      xmlns:android="http://schemas.android.com/apk/res/android"
-     id="cordova-plugin-jcore"
+     id="cordova-plugin-jcore-google-play"
      version="1.3.1">
 
     <name>JCore</name>
     <description>Cordova plugin for jcore</description>
-    <author>WilhanTian, JiGuang</author>
+    <author>WilhanTian, JiGuang, yanglb</author>
     <keywords>jcore,jpush</keywords>
     <license>MIT License</license>
 
@@ -23,7 +23,7 @@
         <resource-file src="src/android/x86/libjcore216.so" target="jniLibs/x86/libjcore216.so"/>
         <resource-file src="src/android/x86_64/libjcore216.so" target="jniLibs/x86_64/libjcore216.so"/>
 
-        <lib-file src="src/android/jcore-android-2.1.6.jar" />
+        <lib-file src="src/android/jcore-android-2.2.6-google_play.jar" />
     </platform>
 
     <platform name="ios">
