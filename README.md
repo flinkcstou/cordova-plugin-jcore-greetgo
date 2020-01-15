@@ -6,7 +6,7 @@
 
 **注意**
 
-此插件来自 https://github.com/jpush/cordova-plugin-jcore，以满足Google Play审核要求。
+此插件来自 https://github.com/jpush/cordova-plugin-jcore ，以满足Google Play审核要求。
 
 ## 下文来自jpush/cordova-plugin-jcore
 极光各种开发者服务的核心依赖 JCore SDK 的 Cordova 插件。
