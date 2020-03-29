@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-jcore-google-play",
+  "name": "cordova-plugin-jcore-greetgo",
   "version": "1.3.1",
   "description": "jcore for cordova plugin google play edition",
   "cordova": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yanglb/cordova-plugin-jcore-google-play"
+    "url": "git+https://github.com/flinkcstou/cordova-plugin-jcore-greetgo.git"
   },
   "keywords": [
     "jcore",
@@ -19,12 +19,13 @@
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "google play"
+    "google play",
+    "greetgo"
   ],
-  "author": "wilhantian, jiguang, yanglb",
-  "license": "MIT License",
+  "author": "wilhantian, jiguang, yanglb, flinkcstou",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yanglb/cordova-plugin-jcore-google-play/issues"
+    "url": "https://github.com/jpush/cordova-plugin-jcore/issues"
   },
-  "homepage": "https://github.com/yanglb/cordova-plugin-jcore-google-play#readme"
+  "homepage": "https://github.com/flinkcstou/cordova-plugin-jcore-greetgo/#readme"
 }
