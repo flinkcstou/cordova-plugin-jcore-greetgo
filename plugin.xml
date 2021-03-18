@@ -23,7 +23,7 @@
         <resource-file src="src/android/x86/libjcore260.so" target="jniLibs/x86/libjcore260.so"/>
         <resource-file src="src/android/x86_64/libjcore260.so" target="jniLibs/x86_64/libjcore260.so"/>
 
-        <lib-file src="src/android/jcore-android-2.6.0-google_play.jar" />
+        <lib-file src="src/android/jcore-android-2.7.2-google_play.jar" />
     </platform>
 
     <platform name="ios">
